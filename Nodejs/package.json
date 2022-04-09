@@ -31,7 +31,7 @@
     "express": "^4.16.4",
     "lodash": "^4.17.11",
     "messaging-api-line": "^0.8.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "puppeteer": "^1.20.0",
     "sharp": "^0.23.0",
     "yahoo-finance": "^0.3.6"
